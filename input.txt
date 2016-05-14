@@ -1,0 +1,10 @@
+Dheeksha,@KicchaSudeep,#Happy
+Sowjanya,@Pradeep,#Sad
+Lokesh,@Kiran,#Good
+Aishwarya,@Mohan,#Crazy
+Arun,@Karthik,#Bad
+Dixith,@Ram,#Sad
+Deepika,@Sudeep,#Happy
+Niranjani,@Kiccha,#Crazy
+Priya,@Ananya,#Bad
+Sujith,@KicchaSudeep,#Happy
